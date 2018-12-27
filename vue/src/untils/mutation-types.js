@@ -1,0 +1,5 @@
+export const ADD_VISITED_TAG = "ADD_VISITED_TAG";
+export const REMOVE_VISITED_TAG = "REMOVE_VISITED_TAG";
+export const CLOSE_OTHER_TAG = "CLOSE_OTHER_TAG";
+export const CLOSE_ALL_TAG = "CLOSE_ALL_TAG";
+export const SET_VIEWS = "SET_VIEWS";
